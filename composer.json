@@ -1,0 +1,18 @@
+{
+    "name": "sblazheev/yii2-imagehelper",
+    "description": "ImageResize with cache for Yii2",
+    "keywords": ["yii2", "image", "resize", "cache"],
+    "homepage": "https://github.com/sblazheev/yii2-imagehelper",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Sergey Blazheev",
+            "email": "s.blazheev@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {"sblazheev\\yii2imagehelper\\": ""}
+    }
+}
